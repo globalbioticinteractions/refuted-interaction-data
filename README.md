@@ -51,6 +51,8 @@ Each term has two columns: one for an id and another for a label. The former is 
 
 term | example | description | 
 --- | --- | ---
+ argumentTypeId | https://en.wiktionary.org/wiki/refute | a URI that points to a definition of how this records support, refutes or provides other kind of arguments in the context of described interaction
+ argumentTypeName | refute | a human readable name that qualifies whether the record is in support or refutes of a particular interaction
  sourceOccurrenceId | 83742b5e-f0fd-4c12-a0af-c97191ea7722 | globally unique id to reference the individual originating organism, specimen. Inspired by http://rs.tdwg.org/dwc/terms/#occurrenceID .
  sourceTaxonId | EOL:328583 | taxon classification id of originating organism in some taxon name authority
  sourceTaxonName | Enhydra lutris  | scientific name of taxon classification of originating organism 
