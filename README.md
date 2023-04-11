@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/globalbioticinteractions/refuted-interaction-data.svg)](https://travis-ci.org/globalbioticinteractions/refuted-interaction-data) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/refuted-interaction-data)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/refuted-interaction-data) 
+[![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/refuted-interaction-data)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/refuted-interaction-data) 
 
 This repository provides an example on refuting existing interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) and make alternate, corrected, claims. Also see https://github.com/globalbioticinteractions/template-dataset . 
 
